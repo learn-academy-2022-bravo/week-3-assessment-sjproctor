@@ -11,7 +11,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Reference to the class/object while inside the scope of that class/object
 
 
 
@@ -19,7 +19,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: JavaScript library for building UI, reusable components
 
 
 
@@ -27,7 +27,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: render()
 
 
 
@@ -35,7 +35,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: JSX - mashup of JavaScript and HTML, JSX can have JavaScript code embedded, JSX has to be compiled, fragments, className vs class, inline styling - JSX requires a style object
 
 
 
@@ -43,7 +43,7 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Yarn is a package manager. yarn.lock, node_modules
 
 
 
@@ -51,17 +51,17 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
   Your answer:
 
-  Researched answer:
+  Researched answer: Function without a name
 
 
 ## Looking Ahead: Terms for Next Week
 
-1. Conditional rendering:
+1. Conditional rendering: Only rendering certain items depending on the current state
 
-2. Object-oriented programming:
+2. Object-oriented programming: Programming model/philosophy that focuses on objects first
 
-3. Ruby:
+3. Ruby: Server-side scripting language, OOP, human-readable language, open-source, creating in the 90's, preinstalled on Macs
 
-4. Ruby blocks:
+4. Ruby blocks: anonymous functions passed to methods
 
-5. Ruby hashes:
+5. Ruby hashes: container of data stored in key/value pairs
